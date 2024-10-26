@@ -22,10 +22,6 @@ DAY 1
 [october] [26], 2024
 
 - given the contest on codeforce
+  [(https://codeforces.com/contest/2027/problem/A)]
 - solved question on codeforces
   [https://codeforces.com/problemset/problem/158/A]
-
-
-
- [(https://codeforces.com/contest/2027/problem/A)]
-
