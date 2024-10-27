@@ -25,3 +25,14 @@ DAY 1
   [(https://codeforces.com/contest/2027/problem/A)]
 - solved question on codeforces
   [https://codeforces.com/problemset/problem/158/A]
+
+  DAY 4
+  
+[october] [27], 2024
+
+- participated in contest of codeforce
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/617/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/546/A)]
+
