@@ -46,4 +46,23 @@ DAY 1
 - solved the 800 rating question on codeforces
   [(https://codeforces.com/problemset/problem/112/A))]
 
+  DAY 6 to DAY 9
+  
+  Was not able to update
+
+   DAY 10
+  
+[November] [2], 2024
+
+- participated in contest of codeforce
+  [https://codeforces.com/contest/2036/problem/A]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/112/A))]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/116/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/71/A)]
+
+
+
 
