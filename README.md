@@ -63,6 +63,28 @@ DAY 1
 - solved the 800 rating question on codeforces
   [(https://codeforces.com/problemset/problem/71/A)]
 
+ DAY 11
+  
+[November] [3], 2024
+
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/281/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/791/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/contest/236/problem/A)]
+
+   DAY 12
+  
+[November] [4], 2024
+
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/110/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/977/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/266/A)]
+
 
 
 
