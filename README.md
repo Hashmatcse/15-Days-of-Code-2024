@@ -74,7 +74,7 @@ DAY 1
 - solved the 800 rating question on codeforces
   [(https://codeforces.com/contest/236/problem/A)]
 
-   DAY 12
+  DAY 12
   
 [November] [4], 2024
 
@@ -85,6 +85,27 @@ DAY 1
 - solved the 800 rating question on codeforces
   [(https://codeforces.com/problemset/problem/266/A)]
 
+ DAY 13
+  
+[November] [5], 2024
 
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/734/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/282/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/41/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/677/A)]
+
+ DAY 14
+  
+[November] [6], 2024
+
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/1030/A)]
+- solved the 800 rating question on codeforces
+  [(https://codeforces.com/problemset/problem/1283/A)]
+- continued my dsa lectures from youtube
 
 
